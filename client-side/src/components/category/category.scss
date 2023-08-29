@@ -1,0 +1,45 @@
+.category
+{
+    width: 29%;
+    height: 300px;
+    aspect-ratio: 16/9;;
+    background-image: url(../../assets/poster.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+
+    .category-text
+    {
+        height: 100%;
+        background-color: rgba($color: #000000, $alpha: 0.4);
+        transition: 0.25 ease;
+
+        .heading
+        {
+            font-size: 1.4rem;
+            font-weight: lighter;
+            color: rgba(245, 245, 245, 0.866);
+        }
+
+        &:hover{
+        background-color: rgba($color: #000000, $alpha: 0.5);
+
+        }
+    }
+}
+
+@media screen and  (max-width: 768px)
+{
+    .category{
+        width: 45%;
+        height: 280px;
+    }
+}
+@media screen and  (max-width: 468px)
+{
+    .category{
+        width: 100%;
+        height: 250px;
+    }
+}

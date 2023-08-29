@@ -1,0 +1,42 @@
+.collection
+{
+    margin-top: 80px;
+    margin-inline:80px;
+
+    .info
+    {
+        text-align: center;
+        padding-bottom: 10px;
+        .subheading
+        {
+            margin-top: 10px;
+        }
+    }
+    .content{
+        display: flex;
+        justify-content:center;
+        flex-wrap: wrap;
+        align-items: center;
+        row-gap: 60px;
+        column-gap: 20px;
+        margin-top: 20px;
+    }
+}
+
+@media screen and  (max-width: 768px)
+{
+    .collection{
+        margin-top: 60px;
+        margin-inline:40px;
+        .content{
+            row-gap: 30px;
+        }
+    }
+}
+@media screen and  (max-width: 468px)
+{
+    .collection{
+        margin-top: 40px;
+        margin-inline:25px;
+    }
+}
