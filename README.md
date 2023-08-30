@@ -1,5 +1,10 @@
 # E-Commerce-Website-Project
 E-Commerce-Website-Project 
+
+## Project detail video
+
+
+## Project Screenshots
 ![E-Commerce and 1 more page - Profile 1 - Microsoft​ Edge 30-08-2023 05_05_26 PM](https://github.com/Mukesh-Kumawat-0o/E-Commerce-Website-Project/assets/121726509/17ebadab-91ad-4c54-ab6e-608ab5537d68)
 ![E-Commerce and 1 more page - Profile 1 - Microsoft​ Edge 30-08-2023 05_05_58 PM](https://github.com/Mukesh-Kumawat-0o/E-Commerce-Website-Project/assets/121726509/f9b2c11c-c175-42b7-9928-d5838256382f)
 ![E-Commerce and 1 more page - Profile 1 - Microsoft​ Edge 30-08-2023 05_06_17 PM](https://github.com/Mukesh-Kumawat-0o/E-Commerce-Website-Project/assets/121726509/4f078032-d667-43d7-8a87-28401f563ae4)
