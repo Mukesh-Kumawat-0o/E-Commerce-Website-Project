@@ -16,11 +16,11 @@ function Collection() {
   );
 
   const sortList = [
-    { value: "Price-Low to High", sort: "price" },
     {
       value: "Newest First",
       sort: "createdAT",
     },
+    { value: "Price-Low to High", sort: "price" },
   ];
 
   async function fetchProduct() {
