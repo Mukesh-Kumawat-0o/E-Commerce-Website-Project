@@ -1,5 +1,6 @@
 # E-Commerce-Website-Project
 ### E-Commerce-Website-Project 
+A POSTERZ. is an e-commerce website and customer's can buy comics, sports, tv shows they can also verify payment. Easy to use website and they can explore all products of website. They can also navigate in different categories and get product by their preference. Customer can add product in their cart and increase quantity as per their need. When click on a product he will get a detailed description about the product.
 
 ## Project detail video
 https://github.com/Mukesh-Kumawat-0o/E-Commerce-Website-Project/assets/121726509/2e2b87b7-803b-4b53-9c10-80bcee33a033
